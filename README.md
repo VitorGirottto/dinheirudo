@@ -1,6 +1,7 @@
 # 💸 Dinheirudo  
 Aplicativo mobile desenvolvido com **React Native + Expo** para controle financeiro pessoal.  
 O Dinheirudo permite registrar gastos, criar categorias, gerar relatórios filtrados e acompanhar estatísticas diretamente no celular, utilizando banco de dados **SQLite local**.
+  <img src="imagem.jpg" alt="imagem" width="300">
 
 ---
 
